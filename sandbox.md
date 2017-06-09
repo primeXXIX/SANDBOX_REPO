@@ -2,20 +2,20 @@
 
 *https://github.com/primeXXIX/SANDBOX_REPO*
 
-### $ git clone https://github.com/primeXXIX/Refresher-Developer-Tools SANDBOX_REPO
+##### $ git clone https://github.com/primeXXIX/Refresher-Developer-Tools SANDBOX_REPO
 
-### ga .
+##### ga .
 
-### git stash
+##### git stash
 
-### gc -m "Adds SANDBOX_REPO"
+##### gc -m "Adds SANDBOX_REPO"
 
-### gco -b "sandbox"
+##### gco -b "sandbox"
 
-### gb -d
+##### gb -d
 
-### gp -u origin sandbox
+##### gp -u origin sandbox
 
-### git reset --head
+##### git reset --head
 
-### git rebase
+##### git rebase
